@@ -1,0 +1,5 @@
+1. Steps of upload images in README.md
+
+<br/>
+<img height="image_height" src="image_link" width="image_weight" hspace="space_in_right" vspace="space_in_top" style="max-width:100%;">
+<br/>
