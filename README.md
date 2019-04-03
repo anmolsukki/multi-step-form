@@ -35,7 +35,9 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Developer Profile
 *   Name - Anmol Singh
-*  [![Follow](https://img.shields.io/twitter/url/https/github.com/openebs/openebs.svg?style=social&label=Follow)](https://twitter.com/Anmolsukki)
+
+[![Follow](https://img.shields.io/twitter/url/https/github.com/openebs/openebs.svg?style=social&label=Follow)](https://twitter.com/Anmolsukki)
+
 <kbd>
 <img src="https://pbs.twimg.com/profile_images/917773516388294657/blG446QN_400x400.jpg" hspace="30" height="150px">
   </kbd>
