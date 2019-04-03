@@ -5,27 +5,27 @@
 
 ## rj_zarves
 
-#### Branch name ==> [calender](https://github.com/anmolsukki/rj_zarves/tree/calender)
+#### Branch name - [calender](https://github.com/anmolsukki/rj_zarves/tree/calender)
 ###### Description 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-#### Branch name ==> dropdown
+#### Branch name - dropdown
 ###### Description 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-#### Branch name ==> empty
+#### Branch name - empty
 ###### Description 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-#### Branch name ==> master
+#### Branch name - master
 ###### Description 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-#### Branch name ==> navbar
+#### Branch name - navbar
 ###### Description 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-#### Branch name ==> toggle
+#### Branch name - toggle
 ###### Description 
 
 *  1_on_off_toggle. ( Multiple Static Toggle button )
@@ -35,6 +35,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Developer Profile
 *   Name - Anmol Singh
-*   twitter - https://twitter.com/Anmolsukki
-<img height="200" src="https://github.com/anmolsukki/rj_zarves/raw/master/photos/PHOTO%203.jpg" width="190" hspace="30" style="max-width:100%;">
+*  [![Follow](https://img.shields.io/twitter/url/https/github.com/openebs/openebs.svg?style=social&label=Follow)](https://twitter.com/Anmolsukki)
+<kbd>
+<img src="https://pbs.twimg.com/profile_images/917773516388294657/blG446QN_400x400.jpg" hspace="30" height="150px">
+  </kbd>
 <br/>
