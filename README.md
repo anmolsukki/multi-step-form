@@ -1,4 +1,4 @@
-### Please follow on twitter
+### Please follow on
 [![Follow](https://img.shields.io/badge/Follow-Twitter-red.svg)](https://twitter.com/Anmolsukki)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
