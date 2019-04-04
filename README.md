@@ -1,5 +1,6 @@
 ### Please follow on
 [![Follow](https://img.shields.io/badge/Follow-Twitter-red.svg)](https://twitter.com/Anmolsukki)
+[![Facebook](https://img.shields.io/badge/Follow-LinkedIn-Blue.svg?style=flat-square)](https://www.linkedin.com/in/anmolsukki/)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
