@@ -1,12 +1,45 @@
+### Please follow on
+[![Follow](https://img.shields.io/badge/Follow-Twitter-red.svg)](https://twitter.com/Anmolsukki)
+[![Facebook](https://img.shields.io/badge/Follow-LinkedIn-Blue.svg?style=flat-square)](https://www.linkedin.com/in/anmolsukki/)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 ## rj_zarves
 
-#### Branch name = toggle
+#### Branch name - [calender](https://github.com/anmolsukki/rj_zarves/tree/calender)
 ###### Description 
-* 1.  1_on_off_toggle. ( Multiple Static Toggle button )
-<img height="200" src="https://github.com/anmolsukki/rj_zarves/raw/master/photos/1_on_off_toggle.png" width="200" style="max-width:100%;">
 
+------------------------------------------------------------------------------------------------------------------------------------------
+#### Branch name - dropdown
+###### Description 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+#### Branch name - empty
+###### Description 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+#### Branch name - master
+###### Description 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+#### Branch name - navbar
+###### Description 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+#### Branch name - toggle
+###### Description 
+
+*  1_on_off_toggle. ( Multiple Static Toggle button )
+
+![toggle](https://github.com/anmolsukki/rj_zarves/raw/master/photos/1_on_off_toggle.png)
+
+------------------------------------------------------------------------------------------------------------------------------------------
 #### Developer Profile
-*   Name = Anmol Singh
-*   twitter = https://twitter.com/Anmolsukki
-<img height="200" src="https://github.com/anmolsukki/rj_zarves/raw/master/photos/PHOTO%203.jpg" width="150" hspace="30" style="max-width:100%;">
+*   Name - Anmol Singh
+
+[![Follow](https://img.shields.io/twitter/url/https/github.com/openebs/openebs.svg?style=social&label=Follow)](https://twitter.com/Anmolsukki)
+
+<kbd>
+<img src="https://pbs.twimg.com/profile_images/917773516388294657/blG446QN_400x400.jpg" hspace="30" height="150px">
+  </kbd>
 <br/>
