@@ -1,5 +1,6 @@
 ### Donate Please
-[![paypal](https://aleen42.github.io/badges/src/paypal.svg)](https://paypal.me/anmolsukki?locale.x=en_GB)
+[![paypal](https://aleen42.github.io/badges/src/paypal.svg)](https://paypal.me/anmolsukki?locale.x=en_GB) &nbsp;
+<a href="https://github.com/anmolsukki/stuff/blob/pics/images/paytm_barcode.jpg" ><img src="https://github.com/anmolsukki/stuff/blob/pics/images/paytm_icon.png" height="18px"></a>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
