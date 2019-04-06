@@ -36,7 +36,7 @@
 
 *  1_on_off_toggle. ( Multiple Static Toggle button )
 
-![toggle](https://github.com/anmolsukki/rj_zarves/raw/master/photos/1_on_off_toggle.png)
+![toggle](https://github.com/anmolsukki/stuff/blob/gif/gif_images/toggle_gif.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Developer Profile
