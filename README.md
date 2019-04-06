@@ -36,8 +36,8 @@
 #### Developer Profile
 *   Name - Anmol Singh
 
-[![Follow](https://img.shields.io/twitter/url/https/github.com/openebs/openebs.svg?style=social&label=Follow)](https://twitter.com/Anmolsukki)
-<a href="https://www.linkedin.com/in/anmolsukki/"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20px"></a>
+[![Follow](https://img.shields.io/twitter/url/https/github.com/openebs/openebs.svg?style=social&label=Follow)](https://twitter.com/Anmolsukki) &nbsp;
+<a href="https://www.linkedin.com/in/anmolsukki/" img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20px"></a>
 
 <kbd>
 <img src="https://pbs.twimg.com/profile_images/917773516388294657/blG446QN_400x400.jpg" hspace="30" height="150px">
