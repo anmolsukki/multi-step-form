@@ -10,25 +10,49 @@
 #### Branch name - [calender](https://github.com/anmolsukki/rj_zarves/tree/calender)
 ###### Description 
 
+*  1_date_time. ( Multiple date and time format )
+
+![calender](https://github.com/anmolsukki/stuff/blob/pics/images/calender_format_pics.png)
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Branch name - [dropdown](https://github.com/anmolsukki/rj_zarves/tree/dropdown)
 ###### Description 
+
+*  1_search_dropdown_hoc. ( high order component dropdown menu )
+
+![hoc_dropdown](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_hoc_dropdown.gif)
+
+*  2_multi_dropdown. ( select multiple dropdown )
+
+![multi_dropdown](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_multi_dropdown.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Branch name - [empty](https://github.com/anmolsukki/rj_zarves/tree/empty)
 ###### Description 
 
+empty branch is just for start level project.
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Branch name - [master](https://github.com/anmolsukki/rj_zarves/tree/master)
 ###### Description 
+
+master branch is just for all branch's description.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Branch name - [navbar](https://github.com/anmolsukki/rj_zarves/tree/navbar)
 ###### Description 
 
+*  1_navbar. ( navbar menu )
+
+![1_navbar](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_1_navbar.gif)
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Branch name - [scroll_restoration](https://github.com/anmolsukki/rj_zarves/tree/scroll_restoration)
 ###### Description 
+
+*  1_scroll_floatting_button. ( got to top with scroll button )
+
+![1_scroll_restoration](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_1_scroll_restoration.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Branch name - [toggle](https://github.com/anmolsukki/rj_zarves/tree/toggle)
