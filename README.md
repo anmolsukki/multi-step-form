@@ -12,7 +12,7 @@
 
 *  1_date_time. ( Multiple date and time format )
 
-![calender](https://github.com/anmolsukki/stuff/blob/pics/images/calender_format_pics.png)
+![calender](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_1_date_time.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Branch name - [dropdown](https://github.com/anmolsukki/rj_zarves/tree/dropdown)
