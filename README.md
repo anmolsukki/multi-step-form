@@ -1,6 +1,6 @@
-## rj_zarves
+# rj_zarves
 
-### Give me cofee
+## Give me cofee
 [![paypal](https://aleen42.github.io/badges/src/paypal.svg)](https://paypal.me/anmolsukki?locale.x=en_GB) &nbsp;
 <a href="https://raw.githubusercontent.com/anmolsukki/stuff/pics/images/google_pay_barcode.png" ><img src="https://github.com/anmolsukki/stuff/blob/pics/images/google_pay_logo.png" height="18px"></a> &nbsp;
 <a href="https://raw.githubusercontent.com/anmolsukki/stuff/pics/images/paytm_barcode.jpg" ><img src="https://github.com/anmolsukki/stuff/blob/pics/images/paytm_icon.png" height="16px"></a>
