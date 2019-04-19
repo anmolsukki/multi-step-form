@@ -1,11 +1,12 @@
-### Donate Please
+## rj_zarves
+
+### Give me cofee
 [![paypal](https://aleen42.github.io/badges/src/paypal.svg)](https://paypal.me/anmolsukki?locale.x=en_GB) &nbsp;
 <a href="https://raw.githubusercontent.com/anmolsukki/stuff/pics/images/google_pay_barcode.png" ><img src="https://github.com/anmolsukki/stuff/blob/pics/images/google_pay_logo.png" height="18px"></a> &nbsp;
-<a href="https://raw.githubusercontent.com/anmolsukki/stuff/pics/images/paytm_barcode.jpg" ><img src="https://github.com/anmolsukki/stuff/blob/pics/images/paytm_icon.png" height="18px"></a>
+<a href="https://raw.githubusercontent.com/anmolsukki/stuff/pics/images/paytm_barcode.jpg" ><img src="https://github.com/anmolsukki/stuff/blob/pics/images/paytm_icon.png" height="16px"></a>
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-## rj_zarves
 
 #### Branch name - [calender](https://github.com/anmolsukki/rj_zarves/tree/calender)
 ###### Description 
@@ -36,7 +37,7 @@ empty branch is just for start level project.
 #### Branch name - [master](https://github.com/anmolsukki/rj_zarves/tree/master)
 ###### Description 
 
-master branch is just for all branch's description.
+master branch contain all branches information.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Branch name - [navbar](https://github.com/anmolsukki/rj_zarves/tree/navbar)
@@ -67,7 +68,7 @@ master branch is just for all branch's description.
 *   Name - Anmol Singh
 
 [![Follow](https://img.shields.io/twitter/url/https/github.com/openebs/openebs.svg?style=social&label=Follow)](https://twitter.com/Anmolsukki) &nbsp;
-<a href="https://www.linkedin.com/in/anmolsukki/" ><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="20px"></a>
+<a href="https://www.linkedin.com/in/anmolsukki/" ><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="18px"></a>
 
 <kbd>
 <img src="https://pbs.twimg.com/profile_images/917773516388294657/blG446QN_400x400.jpg" hspace="30" height="150px">
