@@ -27,12 +27,6 @@
 ![multi_dropdown](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_multi_dropdown.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
-#### Branch name - [empty](https://github.com/anmolsukki/rj_zarves/tree/empty)
-###### Description 
-
-empty branch is just for start level project.
-
-------------------------------------------------------------------------------------------------------------------------------------------
 #### Branch name - [master](https://github.com/anmolsukki/rj_zarves/tree/master)
 ###### Description 
 
