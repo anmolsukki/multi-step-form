@@ -10,6 +10,7 @@
 #### Branch name - [calender](https://github.com/anmolsukki/rj_zarves/tree/calender)
 ###### Description 
 
+
 *  1_date_time. ( Multiple date and time format )
 
 ![calender](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_1_date_time.gif)
@@ -69,6 +70,8 @@ master branch contain all branches information.
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Developer Profile
 *   Name - Anmol Singh
+
+Get in touch
 
 [![Follow](https://img.shields.io/twitter/url/https/github.com/openebs/openebs.svg?style=social&label=Follow)](https://twitter.com/Anmolsukki) &nbsp;
 <a href="https://www.linkedin.com/in/anmolsukki/" ><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="18px"></a>
