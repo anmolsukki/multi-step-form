@@ -7,6 +7,16 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+#### Branch name - [accordian](https://github.com/anmolsukki/rj_zarves/tree/accordian)
+###### Description 
+
+
+*  1_accordian. ( simple accordian )
+
+![accordian](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_accordian.gif)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 #### Branch name - [calender](https://github.com/anmolsukki/rj_zarves/tree/calender)
 ###### Description 
 
@@ -14,6 +24,16 @@
 *  1_date_time. ( Multiple date and time format )
 
 ![calender](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_1_date_time.gif)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+#### Branch name - [crousel](https://github.com/anmolsukki/rj_zarves/tree/crousel)
+###### Description 
+
+
+*  1_slider. ( slider with local and remote image )
+
+![crousel](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_crousel.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 #### Branch name - [dropdown](https://github.com/anmolsukki/rj_zarves/tree/dropdown)
