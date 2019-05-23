@@ -15,6 +15,10 @@
 
 ![accordian](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_accordian.gif)
 
+*  2_accordian. ( accordian style )
+
+![accordian](https://github.com/anmolsukki/stuff/blob/gif/gif_images/2_accordian.gif)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 #### Branch name - [calender](https://github.com/anmolsukki/rj_zarves/tree/calender)
