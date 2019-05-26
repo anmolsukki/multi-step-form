@@ -59,6 +59,14 @@
 *  1_Highchart. ( Highcharts )
 
 ![multi_dropdown](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_highchart.gif)
+------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Branch name - [local_storage](https://github.com/anmolsukki/rj_zarves/tree/local_storage)
+###### Description 
+
+*  1_local_storage. ( Local Storage )
+
+![1_local_storage](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_local_storage.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
