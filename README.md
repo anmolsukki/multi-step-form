@@ -40,6 +40,34 @@
 ![crousel](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_crousel.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Branch name - [data-list](https://github.com/anmolsukki/rj_zarves/tree/data-list)
+###### Description 
+
+*  data-list-axios. ( get API )
+
+![data-list-axios](https://github.com/anmolsukki/stuff/blob/gif/gif_images/data-list-axios.gif)
+
+*  data-list-fetch-api. ( fetch API )
+
+![data-list-fetch-api](https://github.com/anmolsukki/stuff/blob/gif/gif_images/data-list-fetch-api.gif)
+
+*  data-list-local. ( get local data )
+
+![data-list-local](https://github.com/anmolsukki/stuff/blob/gif/gif_images/data-list-local.gif)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Branch name - [data-table](https://github.com/anmolsukki/rj_zarves/tree/data-table)
+###### Description 
+
+
+*  ag-grid. ( ag-grid data table functionality )
+
+![ag-grid](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1-data-table.gif)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Branch name - [dropdown](https://github.com/anmolsukki/rj_zarves/tree/dropdown)
 ###### Description 
 
@@ -92,6 +120,16 @@ master branch contain all branches information.
 ![1_scroll_restoration](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_1_scroll_restoration.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Branch name - [toast](https://github.com/anmolsukki/rj_zarves/tree/toast)
+###### Description 
+
+*  toast-message. ( show toast message )
+
+![toast-message](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_toast.gif)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Branch name - [toggle](https://github.com/anmolsukki/rj_zarves/tree/toggle)
 ###### Description 
 
@@ -100,6 +138,14 @@ master branch contain all branches information.
 ![toggle](https://github.com/anmolsukki/stuff/blob/gif/gif_images/toggle_gif.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Branch name - [welcome](https://github.com/anmolsukki/rj_zarves/tree/welcome)
+###### Description 
+
+welcome branch is about reactjs boiller-point.
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Developer Profile
 *   Name - Anmol Singh
 
