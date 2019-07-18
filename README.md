@@ -75,13 +75,17 @@
 #### Branch name - [dropdown](https://github.com/anmolsukki/rj_zarves/tree/dropdown)
 ###### Description 
 
-*  1_search_dropdown_hoc. ( high order component dropdown menu )
+*  1_dropdown_with_api. ( dynamic dropdown with api )
 
-![hoc_dropdown](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_hoc_dropdown.gif)
+![1_dropdown_with_api](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_dropdown_api.gif)
 
 *  2_multi_dropdown. ( select multiple dropdown )
 
 ![multi_dropdown](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_multi_dropdown.gif)
+
+*  3_dropdown_item_value. ( get select dropdown value )
+
+![3_dropdown_item_value](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_dropdown_value.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
