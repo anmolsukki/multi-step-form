@@ -39,6 +39,10 @@
 
 ![crousel](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_crousel.gif)
 
+*  2_slider_mdbreact. ( mdbreact slider )
+
+![2_slider_mdbreact](https://github.com/anmolsukki/stuff/blob/gif/gif_images/2-slider-mdbreact.gif)
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Branch name - [data-list](https://github.com/anmolsukki/rj_zarves/tree/data-list)
@@ -112,6 +116,16 @@ master branch contain all branches information.
 ![1_navbar](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_1_navbar.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Branch name - [radio-button](https://github.com/anmolsukki/rj_zarves/tree/radio-button)
+###### Description 
+
+*  1-radio-button-sweetalert. ( radio button with sweet alert )
+
+![1-radio-button-sweetalert](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1-radio-button.gif)
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 #### Branch name - [scroll_restoration](https://github.com/anmolsukki/rj_zarves/tree/scroll_restoration)
 ###### Description 
 
