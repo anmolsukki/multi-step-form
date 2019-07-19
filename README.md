@@ -81,11 +81,19 @@
 
 *  2_multi_dropdown. ( select multiple dropdown )
 
+![dropdown](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_dropdown_bootstrap.gif)
+
+
 ![multi_dropdown](https://github.com/anmolsukki/stuff/blob/gif/gif_images/gif_multi_dropdown.gif)
+
 
 *  3_dropdown_item_value. ( get select dropdown value )
 
 ![3_dropdown_item_value](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_dropdown_value.gif)
+
+*  4_dropdown_json. ( get select dropdown value through json )
+
+![4_dropdown_json](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_dropdown_value.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
