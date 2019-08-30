@@ -100,9 +100,13 @@
 #### Branch name - [form](https://github.com/anmolsukki/rj_zarves/tree/form)
 ###### Description 
 
-*  1_bootstrap_form. ( Multi step bootstrap form )
+*  1_bootstrap_form. ( Multi step Core UI form )
 
-![form](form.jpeg)
+![coreui](https://github.com/anmolsukki/stuff/blob/gif/gif_images/1_multi_step_coreui_form.gif)
+
+* 2_user_form (Multi Step Material UI form)
+
+![bootstrap](https://github.com/anmolsukki/stuff/blob/gif/gif_images/2_multi_step_materialui_form.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
