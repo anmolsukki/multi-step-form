@@ -7,6 +7,14 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+Get in touch
+
+[![Follow](https://img.shields.io/twitter/url/https/github.com/openebs/openebs.svg?style=social&label=Follow)](https://twitter.com/Anmolsukki) &nbsp;
+<a href="https://www.linkedin.com/in/anmolsukki/" ><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="18px"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCblDw1QEzTOL2CFO_BeV3Sw?view_as=subscriber" ><img src="https://github.com/anmolsukki/stuff/blob/pics/images/subsyou_icon.png" height="23px"></a>
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 #### Branch name - [accordian](https://github.com/anmolsukki/rj_zarves/tree/accordian)
 ###### Description 
 
@@ -188,11 +196,6 @@ welcome branch is about reactjs boiller-point.
 
 #### Developer Profile
 *   Name - Anmol Singh
-
-Get in touch
-
-[![Follow](https://img.shields.io/twitter/url/https/github.com/openebs/openebs.svg?style=social&label=Follow)](https://twitter.com/Anmolsukki) &nbsp;
-<a href="https://www.linkedin.com/in/anmolsukki/" ><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" height="18px"></a>
 
 <kbd>
 <img src="https://pbs.twimg.com/profile_images/917773516388294657/blG446QN_400x400.jpg" hspace="30" height="150px">
