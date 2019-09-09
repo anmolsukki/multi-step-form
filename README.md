@@ -116,6 +116,10 @@ Get in touch
 
 ![bootstrap](https://github.com/anmolsukki/stuff/blob/gif/gif_images/2_multi_step_materialui_form.gif)
 
+* 3-simple-form (simple form validation)
+
+![simple-form](https://github.com/anmolsukki/stuff/blob/gif/gif_images/3-simple-form.gif)
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 #### Branch name - [highchart](https://github.com/anmolsukki/rj_zarves/tree/highchart)
